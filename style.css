@@ -500,7 +500,9 @@ img {
     margin-bottom: 5px;
     font-family: 'Poppins', sans-serif;
 }
-
+#contact .contact-item div h1 a{
+    color:crimson;
+}
 #contact .contact-item div h3 {
     color: darkcyan;
 }
