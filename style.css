@@ -890,3 +890,6 @@ header section */
     display: flex;
     flex-direction: row;
 } */
+p{
+display:table;
+}
