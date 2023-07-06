@@ -234,7 +234,9 @@ img {
     object-fit: cover;
 
 }
-
+#services .service-item{
+    height: 32rem;
+}
 #services .service-item h2 {
     color: crimson;
     font-family: 'Kalam', cursive;
@@ -500,9 +502,7 @@ img {
     margin-bottom: 5px;
     font-family: 'Poppins', sans-serif;
 }
-#contact .contact-item div h1 a{
-    color:crimson;
-}
+
 #contact .contact-item div h3 {
     color: darkcyan;
 }
@@ -890,6 +890,3 @@ header section */
     display: flex;
     flex-direction: row;
 } */
-p{
-display:table;
-}
